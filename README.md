@@ -1,5 +1,5 @@
 # 💫 Mi Información:
-Soy docente de Infraestructura Tecnológica y Servicios Informáticos. Trabajo con estudiantes de 3o Año en la administración de proyectos para trabajar con bases de datos, ERP, software de administración de redes informáticas y administración de centros de datos, software de auditoria informática, y fundamentos para la creación de microempresa tecnológica.
+Soy docente de Infraestructura Tecnológica y Servicios Informáticos. Trabajo con estudiantes de 3o Año en la administración de proyectos para trabajar con bases de datos, ERP, administración de redes informáticas y administración de centros de datos, auditoria informática, fundamentos para la creación de microempresa tecnológica y mantenimiento de computadoras.
 
 
 ## 🌐 Redes Sociales:
